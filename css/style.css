@@ -1,0 +1,138 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	width: 80%;
+	margin-left: 10%;
+}
+.nav-bar ul {
+	position: fixed;
+	text-align: center;
+	margin-left: 200px;
+}
+.nav-bar ul li {
+	display: inline-block;
+	font-size: 20px;
+	margin: 20px;	
+}
+
+.nav-bar ul li a {
+	text-decoration: none;
+	color: #828282;
+	font-size: 30px;
+	font-family: 'Gilroy-Bold';
+}
+
+.nav-bar a:hover {
+	color: black;
+	transition: 0.2s;
+}
+.middle-info {
+	padding-top: 100px;
+}
+.container .middle-info p {
+	display: inline-block;
+	font-family: 'Gilroy-Bold';
+}
+
+.container .middle-info .info {
+	margin-left: 50%;
+	font-size: 20px;
+}
+
+.container .middle-info .name {
+	font-size: 50px;
+
+}
+
+.middle-about {
+	margin-top: 100px;
+	background: #F6F6F6;
+	height: 500px;
+}
+.middle-about .middle-about-me .about-me {
+	font-size: 35px;
+	text-align: center;
+	padding-top: 60px;
+	font-family: 'Gilroy-Bold';
+}
+
+.middle-about .middle-about-me .about-me-info {
+	text-align: center;
+	font-family: 'Gilroy-Bold';
+	
+}
+
+.container .info-skills p {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 35px;
+	font-family: 'Gilroy-Bold';
+}
+
+.container .skills-img {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.portfolio .portfolio-work {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.portfolio .portfolio-work p {
+	font-family: 'Gilroy-Bold';
+	font-size: 35px;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.portfolio .two {
+	padding-top: 50px;
+	text-align: center;
+	font-family: 'Gilroy-Medium';
+	font-size: 20px;
+}
+
+.container .contacts {
+	padding-top: 100px;
+	font-size: 35px;
+	font-family: 'Gilroy-Bold';
+	text-align: center;
+}
+
+.container .contacts .info {
+	font-size: 15px;
+}
+
+.container .contacts #btn {
+	background: black;
+	color: white;
+	border-radius: 25px;
+	font-size: 15px;
+	padding: 5px;
+}
+.container .contacts #btn:hover {
+	color: #838381;
+}
+.container .btn-icons {
+	padding-top: 50px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+.container .btn-icons button {
+	border-radius: 20px;
+}
+
+.container .btn-icons button:hover {
+	color: #838381;
+}
+
+.container .footer-icons {
+	text-align: center;
+	font-family: 'Gilroy-Bold';
+	font-size: 12px;
+	color: ;
+}
